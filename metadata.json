@@ -1,0 +1,6 @@
+{
+  "name": "HoloSpin Studio",
+  "description": "Animate product photos into seamless 360-degree hologram rotation videos using Gemini Omni Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
